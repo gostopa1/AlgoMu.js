@@ -4,4 +4,7 @@ The notes are chosen in a random order from a set of notes. The scale is 12-tone
 
 The sounds are then convolved to a reverb.
 
+An example can be found here:
+http://gotsopoulos.com/AlgoMu.js/
+
 The result is interesting but the code is nothing extravagant. I'll be glad though if it appears to be helpful to anybody. 
